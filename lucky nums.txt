@@ -11,7 +11,7 @@ int yes;
   int checknum = rand();
   cout << "your lucky num is: ";
   cout << checknum << endl;
-    if (checknum == 1804289383){
+    if (checknum == 180428938){
       cout << "HORYYYYYYYYYYYYYYYYY SHIIIIIIIIIIIIEEEEEEEEEEEEEEEEEET";
       return 0;
   }
