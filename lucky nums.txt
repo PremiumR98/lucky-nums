@@ -13,6 +13,7 @@ int yes;
   cout << checknum << endl;
     if (checknum == 180428938){
       cout << "HORYYYYYYYYYYYYYYYYY SHIIIIIIIIIIIIEEEEEEEEEEEEEEEEEET";
+      return 0;
   }
   cout << "New num again? (1/0)" << endl;
   cin >> yes;
